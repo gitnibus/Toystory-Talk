@@ -1,0 +1,27 @@
+.settings__setting{
+    padding: 20px 0;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    justify-content: space-between;
+}
+
+.settings__setting i {
+    margin-right: 15px;
+    font-size: 22px;
+}
+
+.settings__setting:nth-child(2) {
+    border-bottom: var(--main-border);
+    padding-bottom: 35px;
+}
+
+.settings__setting:nth-child(3){
+    padding-top: 35px;
+}
+
+.settings__setting-column:last-child{
+    font-size: 17px;
+    opacity: 0.5;
+}
