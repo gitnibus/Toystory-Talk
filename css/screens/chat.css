@@ -109,7 +109,7 @@
     background-color: white;
     display: flex;
     justify-content: space-between;
-    padding: 5px 20px;
+    padding: 5px 15px;
     align-items: center;
     box-sizing: border-box;
 }
@@ -125,8 +125,8 @@
 
 .reply input {
     padding: 12px;
-    width: 100%;
-    border: var(--main-border);
+    width: 95%;
+    border: 1px solid rgba(0, 0, 0, 0.2);
     border-radius: 15px;
 }
 
@@ -138,13 +138,13 @@
 .reply__column:last-child button {
     position: absolute;
     right: -3px;
-    top:2px;
+    top:5px;
     
 }
 
 .reply__column:last-child > i {
     right: 35px;
-    top:10px;
+    top:13px;
 }
 .reply__column button {
     background-color: rgb(224, 245, 167);
