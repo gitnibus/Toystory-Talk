@@ -4,6 +4,8 @@
   align-items: center;
   padding: var(--horizontal-space);
   margin-bottom: 15px;
+  font-family: 'Pangolin', cursive;
+  color: var(--blue);
 }
 
 .screen-header__title {
