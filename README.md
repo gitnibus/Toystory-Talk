@@ -1,5 +1,5 @@
 ## Kakao-Talk Clone Coding
-영화 'Toystoy' 배경을 담아 디자인을 한 카카오톡 클론 코딩입니다.
+
 <br>
 
 
