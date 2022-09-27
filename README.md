@@ -1,6 +1,7 @@
 ## ToyStory-Talk
 #### Kakao-Talk Clone Coding
-
+📌 SKILL : HTML/CSS, JavaScript
+📌 TOOL : Visual Studio Code, Git
 <br>
 
 
