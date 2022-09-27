@@ -1,4 +1,4 @@
-## Kakao-Talk Clone Coding
+## Kakao-Talk Clone Coding with ToyStory
 
 <br>
 
