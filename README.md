@@ -1,5 +1,5 @@
-## ToyStory-Talk
-#### 📌 Kakao-Talk Clone Coding <br>
+## Kakao-Talk Clone Coding (Front-End)
+#### 📌 Project Name : ToyStory-Talk <br>
 #### 📌 SKILL : HTML/CSS, JavaScript <br>
 #### 📌 TOOL : Visual Studio Code, Git <br>
 
