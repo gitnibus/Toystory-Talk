@@ -1,6 +1,8 @@
 ## Kakao-Talk Clone Coding
 #### 📌 Project Name <br>
 ToyStory-Talk <br>
+#### 📌 project duration <br>
+2022.01 ~ 2022.02 <br>
 #### 📌 SKILL <br>
 HTML/CSS, JavaScript <br>
 #### 📌 TOOL <br>
