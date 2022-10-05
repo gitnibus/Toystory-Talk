@@ -4,7 +4,7 @@ ToyStory-Talk <br>
 #### 📌 Project Duration <br>
 2022.01 ~ 2022.02 <br>
 #### 📌 SKILL <br>
-HTML/CSS, JavaScript <br>
+HTML/CSS, Javascript <br>
 #### 📌 TOOL <br>
 Visual Studio Code, Git <br>
 #### 📌 URL <br>
