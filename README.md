@@ -1,13 +1,13 @@
-## Kakao-Talk Clone Coding
-#### 📌 Project Name <br>
-ToyStory-Talk <br>
-#### 📌 Project Duration <br>
+# Kakao-Talk Clone Coding : Front-end
+## Project Name 
+ToyStoryTalk <br>
+## Project Duration 
 2022.01 ~ 2022.02 <br>
-#### 📌 SKILL <br>
+## Skill
 HTML/CSS, JavaScript <br>
-#### 📌 TOOL <br>
+## Tool
 Visual Studio Code, Git <br>
-#### 📌 URL <br>
+## URL 
 https://suebin.github.io/Toystory-Talk/ <br>
 
 
