@@ -8,7 +8,7 @@ HTML/CSS, JavaScript <br>
 ## Tool
 Visual Studio Code, Git <br>
 ## URL 
-https://suebin.github.io/Toystory-Talk/ <br>
+https://suebin.github.io/ToystoryTalk/ <br>
 
 ## UI
 <img width="1000" alt="1" src="https://user-images.githubusercontent.com/97905221/180120993-5f3cf282-9df3-43bb-b912-5e9a8d3f7214.png">
